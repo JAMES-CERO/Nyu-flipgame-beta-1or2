@@ -11,6 +11,7 @@ Start.addEventListener("click", function() {
         document.querySelector("h2").textContent = "ITS Impair"
         Impair++
         console.log(Impair)
+        UpdateTable()
     } else {
         document.querySelector("#N1").src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq6bZLinJH-3bIcOsm22wU5LapfK6deXGh1G4FW43FLrUsN15iVPvKf_wNwdMgsmOYkQI&usqp=CAU"; alt="pair number"
         document.querySelector("h2").textContent = "ITS Pair"
