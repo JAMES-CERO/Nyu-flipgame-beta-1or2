@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(to bottom left,gray, darkblue);
+}
+div {
+   background-color: white;
+   margin-right: 50px;
+    margin-left: 50px;
+}
+h1 {
+   color:rgb(203, 75, 97) ;
+}
+h2 {
+    color:rgb(203, 75, 97) ;
+}
+h3 {
+    color: yellowgreen;
+}
+#StartB {
+    background-image: linear-gradient(to bottom left,rgb(242, 116, 242), rgb(241, 69, 69));
+    font-size: 25px;
+    cursor: pointer;
+}
+#ClearB{
+    background-image: linear-gradient(to bottom right,pink, darkblue);
+    font-size: 25px;
+    cursor: pointer;
+}
+table,
+th,
+td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+
+}
+#N1{
+    height: 4cm;
+    width: 4cm;
+}
+.ButtomB{
+
+    border: 1px solid;
+    margin: 60px;
+    margin-right: 450px;
+    margin-left: 450px;
+    
+    
+}
